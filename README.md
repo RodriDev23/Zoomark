@@ -1,6 +1,6 @@
 # Zoomark
 
-Zoomark is a command-line tool that lets you bookmark and manage frequently used commands, helping you quickly access and execute them when needed.
+Zoomark is a command-line tool that lets you bookmark and manage frequently used commands, helping you quickly access and remember it.
 
 ## Features
 
